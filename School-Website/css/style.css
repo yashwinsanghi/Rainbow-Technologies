@@ -314,7 +314,7 @@ body {
 	background: #f6f6f6;
 }
 .footer{
-	padding: 4%;
+	padding: 2%;
 }
 .copy p{
 	color: #3b3b3b;
@@ -347,18 +347,18 @@ body {
 	position: relative;
 	z-index: 1;
 }
-/* start  technology */
-.technology{
+/* start  academics */
+.academics{
 	padding: 4% 0;
 }
-.technology h2{
+.academics h2{
 	margin: 0 0 20px;
 	text-transform: capitalize;
 	font-size: 3em;
 	color: #3b3b3b;
 	font-family: 'texgyreadventorregular';
 }
-.technology h4{
+.academics h4{
 	font-size: 22px;
 	color: #5b5b5b;
 	font-weight: 100;
@@ -366,11 +366,11 @@ body {
 	display: block;
 	margin:10px 0 8px;
 }
-.tech_para{
+.acad_para{
 	padding-left: 0;
 	padding-right: 0;
 }
-.technology_list1{
+.academics_list1{
 	margin-top: 20px;	
 }
 .pagination > li > a, .pagination > li > span {
@@ -546,29 +546,29 @@ body {
 .social_network i.dribble-icon{
 	background-position: -156px 0px;
 }
-/* start ads_nav */
-.ads_nav{
+/* start alum_nav */
+.alum_nav{
 	margin-top: 30px;
 }
-.ads_nav li{
+.alum_nav li{
 	float: left;
 	width: 46.333333%;
 	margin:0 0 15px 15px;
 }
-.ads_nav li:nth-child(2),.ads_nav li:nth-child(4){
+.alum_nav li:nth-child(2),.alum_nav li:nth-child(4){
 	margin-left: 0;
 }
-.ads_nav li a{
+.alum_nav li a{
 	display: block;
 	-webkit-transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;
 	-o-transition: all 0.3s ease-in-out;
 	transition: all 0.3s ease-in-out;
 }
-.ads_nav li a img{
+.alum_nav li a img{
 	width: 100%;
 }
-.ads_nav li a:hover{
+.alum_nav li a:hover{
 	zoom: 1;
 	filter: alpha(opacity=50);
 	opacity: 0.7;
@@ -806,7 +806,7 @@ body {
 	.main{
 		padding: 2%;
 	}
-	.technology {
+	.academics {
 		padding: 4%;
 	}
 	.about {
@@ -821,7 +821,7 @@ body {
 	.news_letter {
 		margin: 4% 0;
 	}
-	.technology h4 {
+	.academics h4 {
 		font-size: 20px;
 	}
 }
@@ -832,7 +832,7 @@ body {
 	.blog_left h4 a {
 		font-size: 1.2em;
 	}
-	.technology h4 {
+	.academics h4 {
 		font-size: 17px;
 	}
 }
@@ -840,7 +840,7 @@ body {
 	.images_1_of_4 h4 {
 		margin: 20px 0 10px;
 	}
-	.technology h2 {
+	.academics h2 {
 		font-size: 2em;
 	}
 	.about h2 {
@@ -890,7 +890,7 @@ body {
 	.images_1_of_4 h4 a {
 		font-size: 1em;
 	}
-	.technology h4 {
+	.academics h4 {
 		font-size: 14px;
 		line-height: 1.5em;
 	}
